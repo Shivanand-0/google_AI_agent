@@ -12,3 +12,12 @@
 | **Sequential** | Order matters, linear pipeline | Outline → Write → Edit | Deterministic order |
 | **Parallel** | Independent tasks, speed matters | Multi-topic research | Concurrent execution |
 | **Loop** | Iterative improvement needed | Writer + Critic refinement | Repeated cycles |
+
+
+ documentation for level 1:
+
+- [Agents in ADK](https://google.github.io/adk-docs/agents/)
+- [Sequential Agents in ADK](https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/)
+- [Parallel Agents in ADK](https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/)
+- [Loop Agents in ADK](https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/)
+- [Custom Agents in ADK](https://google.github.io/adk-docs/agents/custom-agents/)
