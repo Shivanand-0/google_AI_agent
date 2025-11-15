@@ -1,4 +1,7 @@
 # AI Agent Learning
+<hr>
+<hr>
+<hr>
 
 ### Level 1
 #### Choosing the Right Pattern
@@ -13,6 +16,7 @@
 | **Parallel** | Independent tasks, speed matters | Multi-topic research | Concurrent execution |
 | **Loop** | Iterative improvement needed | Writer + Critic refinement | Repeated cycles |
 
+<hr>
 
  documentation for level 1:
 
@@ -36,6 +40,7 @@
 - Now that you've seen tools in action, let's understand the complete ADK toolkit:
 - It's broadly divided into two categories: **Custom tools** and **Built-in tools**
 
+<hr>
 
 
 #### **1. Custom Tools**
@@ -73,7 +78,9 @@
 - **Advantage**: No manual coding — just provide an API spec and get working tools
 
 
+<hr>
 
+ 
 #### **2. Built-in Tools**
 
 
@@ -97,6 +104,8 @@
 - **What**: Wrappers for existing tool ecosystems
 - **Examples**: Hugging Face, Firecrawl, GitHub Tools
 - **Advantage**: Reuse existing tool investments — no need to rebuild what already exists
+
+<hr>
 
 
 documentation for level 2:
