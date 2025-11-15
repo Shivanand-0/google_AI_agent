@@ -30,6 +30,7 @@
 <hr>
 <hr>
 <hr>
+
 ### Level 2
 
 - Now that you've seen tools in action, let's understand the complete ADK toolkit:
